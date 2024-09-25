@@ -1,0 +1,14 @@
+.products-gallery{
+  max-width: 80%;
+  margin: 30px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  padding: 16px;
+}
+.loading-spinner{
+  display: flex;
+  margin-top: 20%;
+  justify-content: center;
+  height: 100vh;
+}

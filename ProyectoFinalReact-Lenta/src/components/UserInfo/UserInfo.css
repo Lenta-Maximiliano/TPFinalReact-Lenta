@@ -1,0 +1,41 @@
+.userInfo-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  width: 50%;
+  margin: 0 auto;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 15px;
+}
+.form-container{
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+.userInfo-input{
+  display: block;
+  width: 50%;
+  height: 25px;
+  margin: 20px auto;
+  padding-left: 15px;
+  border-radius: 10px;
+  border: none;
+}
+.errorInput{
+  color: red;
+  text-align: center;
+}
+.btnFinalizarCompra{
+  margin: 20px auto;
+  width: 50%;
+  padding: 15px;
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+.btnFinalizarCompra:hover{
+  background-color: #e4ddcf;
+}
