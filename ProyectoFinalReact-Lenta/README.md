@@ -2,7 +2,7 @@
 
 ## Demo
 
-Puedes ver el proyecto desplegado en Netlify: [QueBuenaPINTA en Netlify]
+Puedes ver el proyecto desplegado en Netlify: [QueBuenaPINTA en Netlify](https://visionary-churros-6cbcb2.netlify.app/)
 
 ## Descripción
 QueBuenaPINTA es una tienda online especializada en la venta de bebidas como cervezas, vinos y sidras. Este proyecto está desarrollado con React, Firebase y Vite para una experiencia de usuario rápida y eficiente. El objetivo principal es ofrecer una interfaz intuitiva y sencilla para la compra de productos con la posibilidad de gestionar el carrito y finalizar la compra.
@@ -30,11 +30,11 @@ Sigue estos pasos para instalar y correr el proyecto en tu entorno local:
 
 1. Clona el repositorio:
 ```
-git clone https://github.com/Lenta-Maximiliano/ProyectoFinalLenta.git
+git clone https://github.com/Lenta-Maximiliano/TPFinalReact-Lenta/tree/main/ProyectoFinalReact-Lenta
 ```
 2. Ingresa al directorio del proyecto:
 ```
-cd ProyectoFinalLenta
+cd ProyectoFinalReact-Lenta
 ```
 3. Instala las dependecias:
 ```
@@ -71,6 +71,8 @@ Compila la aplicación para producción en la carpeta dist:
 ```
 npm run preview
 ```
+Prevé la versión compilada localmente.
+
 ## Tecnologías Utilizadas
 Este proyecto está construido con las siguientes tecnologías:
 - [React](https://react.dev/) - Librería de JavaScript para construir interfaces de usuario.
